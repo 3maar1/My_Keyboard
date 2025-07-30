@@ -3,10 +3,13 @@ an RGB custom mechanical keyboard with an OLED screen and some custom features.
 I made this project because i always wanted to make my stuff by myself and have my name signed on it.
 
 ### -The Schematic
+I used kicad with scottokeebs library and wired everything in the schematic.
 ![alt text](SCHEM.png)
 ### -The PCB
+I used a KLE plugin to arrange the switches and diodes, and manually put the led and the oled.
 ![alt text](PCB.png)
 ### -The 3d Model
+I made the 3d model using fusion and added some custom features like signing my name on the back. and made the holes for the socket and the oled. the model is separated to a plate, case, bottom and the pcb inside as a reference.
 ![alt text](<CAD assemled.jpg>)![alt text](CAD.png)
 ### -BOM
 | Item                                     | Price (USD) | Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
