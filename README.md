@@ -2,7 +2,7 @@
 an RGB custom mechanical keyboard with an OLED screen and some custom features.
 I made this project because i always wanted to make my stuff by myself and have my name signed on it.
 
-## Custon features:
+## Custom features:
 - signed my name behind
 - some sk6812 for better colors since my keyboard is all black.
 - an oled screen to give a pretty look 
