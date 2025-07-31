@@ -12,4 +12,4 @@ after finishing the pcb, I made the plate using a json file as a reference, then
 
 and everything is done.
 then i started to make the BOM for my components to see what they cost.
-![alt text](image-1.png)
+![alt text](image-11.png)
